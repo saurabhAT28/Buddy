@@ -1,2 +1,2 @@
 # Buddy
-Chrome Extension
+Chrome Extension for easily navigating to coding platforms
